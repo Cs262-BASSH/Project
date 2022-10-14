@@ -1,4 +1,4 @@
-#KNIGHT MARKET
+# KNIGHT MARKET
 
  For students to sell unwanted items - such as furniture or textbooks- and buy or search for items they need, they would need a platform. While there are other apps like Facebook Marketplace or eBay out there that do this, they pose far more expensive prices and a greater distance to travel. What students need is a platform with the increased opportunity to quickly and easily sell their unwanted items, search for and buy items, and communicate with local students to receive their items from a physically shorter distance. With the natural barrier of distance eliminated, we hope it will encourage a practice of buying secondhand.
 
