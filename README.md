@@ -5,26 +5,26 @@ For students to sell unwanted items - such as furniture or textbooks- and buy or
 
 Our platform will be easily allow sellers to post items they want to sell. Sellers are able to post multiple pictures of their items, a title, a description, a price, and an email or phone number for contact information. An anonymous rating system will be put in place to ensure the good behavior of sellers and connect buyers to trustworthy sellers they can count on. Buyers will be able to use our search engine to find the specific item(or category of items) they seek to buy with ease. Filters will be built into the search engine to limit the time a buyer has to spend locating the item they want. Both buyers and sellers will require to login to make an account, using their calvin emails so the network of buyers and sellers is limited to those within the Calvin space.
 
-<h2>Relevant Documents</h2>
+<h2 align="center">Relevant Documents</h2>
 <ul>
 <li>
-[Domain Model](https://github.com/Cs262-BASSH/Project/blob/main/knightMarket_domainModel.png)
+<a href="https://github.com/Cs262-BASSH/Project/blob/main/knightMarket_domainModel.png">Domain Model</a>
 </li>
 <li>
-[UI Model](https://github.com/Cs262-BASSH/Project/blob/main/UI%20Model.jpg)
+<a href="https://github.com/Cs262-BASSH/Project/blob/main/UI%20Model.jpg">UI Model</a>
 </li>
 </ul>
 
-<h2>Links to Other Repos:</h2>
+<h2 align="center">Links to Other Repos:</h2>
 <ul>
 <li>
-[Client](https://github.com/Cs262-BASSH/Client)
+<a href="https://github.com/Cs262-BASSH/Client">Client</a>
 </li>
 <li>
-[Service](https://github.com/Cs262-BASSH/Service)
+<a href="https://github.com/Cs262-BASSH/Service">Service</a>
 </li>
 <li>
-[Organization](https://github.com/Cs262-BASSH)
+<a href="https://github.com/Cs262-BASSH">Organization</a>
 </li>
 </ul>
 
