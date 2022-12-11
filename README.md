@@ -13,7 +13,7 @@ Our platform will be easily allow sellers to post items they want to sell. Selle
 <a href="https://github.com/Cs262-BASSH/Project/blob/main/UI%20Model.jpg">UI Model</a>
 </li>
 <li>
-<a href="https://github.com/Cs262-BASSH/Project/blob/main/deploymentDiagram.drawio.png">UI Model</a>
+<a href="https://github.com/Cs262-BASSH/Project/blob/main/deploymentDiagram.drawio.png">Deployment Diagram</a>
 </li> 
 </ul>
 
